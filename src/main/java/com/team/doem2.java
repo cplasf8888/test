@@ -6,7 +6,7 @@ package com.team;
  * @Description: TODO
  * @Version V1.0
  */
-public class doem {
+public class doem2 {
     public static void main(String[] args) {
         System.out.println("我拉取项目");
     }
