@@ -6,8 +6,8 @@ package com.team;
  * @Description: TODO
  * @Version V1.0
  */
-public class doem1 {
+public class doem3 {
     public static void main(String[] args) {
-        System.out.println("我是第一个");
+        System.out.println("我是第三个");
     }
 }
